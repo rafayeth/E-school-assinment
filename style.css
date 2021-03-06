@@ -1,0 +1,100 @@
+.container{
+    margin-bottom: 100px;
+
+}
+.logo{
+    height: 59px;
+width: 198.07142639160156px;
+left: 212px;
+top: 30px;
+border-radius: 0px;
+
+}
+
+.bg{
+    background: #F0FFF0;
+
+}
+h6{
+    color: #FD511A;
+    ;
+}
+.button{
+    height: 43px;
+width: 153px;
+left: 205px;
+top: 470px;
+border-radius: 33px;
+padding: 12px, 36px, 12px, 36px;
+background: #21B573;
+
+}
+.sign{
+    height: 43px;
+    width: 104px;
+    
+    
+    border-radius: 33px;
+    padding: 30px, 28px, 40px, 28px;
+    background: #21B573;
+    color: white;
+
+    
+ 
+
+
+}
+.head {color: #21B573;
+    
+}
+.note1{
+    
+}
+.document{
+    margin-top: 100px;
+    -ms-text-combine-vertical:left ;
+    font-size: small;
+}
+    .note1, .note2,.note3,.note4{
+        border: none;
+        border-radius: 10px;
+        padding: 70px;
+        height: 250px;
+        width: 250px;
+        box-shadow:10PX 30px 40px lightgrey ;
+      
+    }
+   .card-footer{
+       border: none;
+       background-color: white;
+       font-size: 15px;
+        font-weight: 500;
+        font-family: serif;
+
+   }
+  .container-bg{
+  
+    background-color: rgb(24, 10, 46);
+    color: white;
+    width: 1500px;
+    height: 400px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-right: 5px;
+    margin-top: 100px;
+    padding-left: 20px;
+    
+
+  }
+  footer{
+      text-align: center;
+      color: brown;
+      padding-top: 100px;
+
+
+  }
+
+  footer{
+    font-size: small;
+    color: azure;
+    text-align: center;
